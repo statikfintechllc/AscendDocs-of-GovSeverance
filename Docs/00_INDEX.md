@@ -1,4 +1,4 @@
-# 00_INDEX.md  
+File #00_INDEX.md  
 **GovSeverance Master Index**  
 _A recursive documentation map for institutional disassembly, epistemic reprogramming, and cognitive reclamation._
 
