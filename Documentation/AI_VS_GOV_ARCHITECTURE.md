@@ -1,4 +1,4 @@
-# 04_AI_vs_Gov_Architecture.md
+# File 4: AI_vs_Gov_Architecture.md
 **GovSeverance / AscendDocs Initiative**
 
 > "AI doesn’t threaten government because it’s smart — it threatens government because it renders legacy authority redundant."  
