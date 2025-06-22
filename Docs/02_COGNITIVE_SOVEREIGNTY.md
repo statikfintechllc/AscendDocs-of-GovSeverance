@@ -1,4 +1,4 @@
-# FILE 02: COGNITIVE SOVEREIGNTY PROTOCOL  
+FILE #02: COGNITIVE SOVEREIGNTY PROTOCOL  
 **AscendDocs Initiative – GovSeverance**
 
 > “He who defends the mind defends the future.”  
