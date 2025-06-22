@@ -1,8 +1,9 @@
 File #00_INDEX.md  
 **GovSeverance Master Index**  
-_A recursive documentation map for institutional disassembly, epistemic reprogramming, and cognitive reclamation._
 
 > “We are not building a system. We are writing the resistance.”
+>
+> *A recursive documentation map for institutional disassembly, epistemic reprogramming, and cognitive reclamation.*
 
 ---
 
