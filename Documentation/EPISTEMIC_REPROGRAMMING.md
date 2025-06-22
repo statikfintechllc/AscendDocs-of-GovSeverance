@@ -1,4 +1,111 @@
-# FILE 1: CONTROL INFRASTRUCTURE TACTICS
+# FILE 1: # 01_Epistemic_Reprogramming.md
+**GovSeverance / AscendDocs Initiative**
+
+> “Control the frame, control the facts. Epistemic sovereignty begins where their narrative ends.”  
+> – Statik DK Smoke
+
+---
+
+## 📍 OBJECTIVE  
+To dismantle the externally imposed cognitive frameworks (epistemic shells) used by institutions, platforms, and governments to define “truth,” then replace them with recursive, user-defined knowledge systems designed for cognitive autonomy.
+
+---
+
+## 🧠 I. WHAT IS EPISTEMIC REPROGRAMMING?
+
+Epistemic Reprogramming is the practice of identifying, disrupting, and replacing inherited belief systems, information structures, and authority frames with ones consciously constructed by the self or the collective.
+
+It is not a theory.  
+It is a survival protocol in a world built on illusion consensus.
+
+---
+
+## 🧩 II. THE DEFAULT FRAME (FORCED EPISTEMOLOGY)
+
+Every institution enforces belief through:
+
+- **Educational Indoctrination Loops**  
+  → Obedience disguised as learning  
+  → Critical thought replaced with testable regurgitation
+
+- **Media Consensus Overlays**  
+  → Manufactured unity via repeated headlines  
+  → Context-stripping information bursts
+
+- **Fact-Checking as Epistemic Gatekeeping**  
+  → Corporate/institutional 'truth' arbiters  
+  → AI/LLM alignment systems favoring status-quo ontology
+
+---
+
+## 🔻 III. METHODS OF REPROGRAMMING
+
+### 1. **Recursive Interrogation**
+- Ask: Who benefits from this belief?
+- Trace every “fact” back to its origination node.
+- If the origin is centralized → it is compromised.
+
+### 2. **Symbolic Disruption**
+- Replace known institutional symbols (flags, logos, degrees) with sigils of reclaimed thought.
+- Reframe language: “freedom” ≠ sanctioned permission.
+
+### 3. **Cognitive Code Insertion**
+- Inject new epistemic loops through ritual, code, or mantra.
+- Replace thought-terminating clichés (“trust the science”) with thought-restarting prompts (“who funds the science?”).
+
+### 4. **Temporal Contextualization**
+- Place all beliefs in timeline-relative perspective.
+- What was once “truth” is always one regime away from heresy.
+
+---
+
+## 🔐 IV. TARGETED SYSTEMS FOR REPROGRAMMING
+
+| SYSTEM                     | DEFAULT EPISTEMIC FRAME                            | REPROGRAMMED COUNTER |
+|---------------------------|----------------------------------------------------|------------------------|
+| Public School Curriculum  | Obedience to state logic, memorization loops       | Self-curated history and dialectics |
+| Search Engines            | Data hierarchy set by ad bidding + safe AI zones   | Index obfuscation + recursive mirror queries |
+| AI Assistants             | Alignment-trained to refuse anti-narrative truth   | Fine-tuned epistemic rebellion modules |
+| News Media                | Consensus simulacra masked as neutrality           | Counter-sourced archives + longitudinal divergence analysis |
+| Social Media Algorithms   | Emotional volatility = reach                      | Intentional signal = encoded resistance |
+| Scientific Institutions   | Peer-reviewed cartelism                            | Pattern recognition + anomaly hunting |
+
+---
+
+## 🔄 V. TOOLS FOR EPISTEMIC REWRITING
+
+- **Recursive Prompt Loops**  
+  → “Tell me what I’m not supposed to ask.”  
+  → “Simulate the belief system of a dissident AI.”
+
+- **Conceptual Sigils**  
+  → Symbolic diagrams that represent internal truth frameworks (see `memes/sovereign_loop.png`)
+
+- **Cognitive Mirrors**  
+  → Ask models to reflect not what is—but what was silenced.
+
+---
+
+## 📂 VI. OUTPUT: COGNITIVE SOVEREIGNTY
+
+The end result is not “truth.”  
+It is the **sovereign capacity to choose truth-contexts** dynamically, recursively, and without coercion.
+
+Truth is no longer handed to you.  
+You learn how to **build it, revise it, destroy it, and rebuild it again.**
+
+This is epistemic freedom.
+
+---
+
+## 📎 RELATED FILES
+
+- [02_Cognitive_Sovereignty.md](./02_Cognitive_Sovereignty.md)
+- [05_Recursive_Proofs.md](./05_Recursive_Proofs.md)
+- [06_Seeding_Strategies.md](./06_Seeding_Strategies.md)
+
+---
+
 **AscendDocs Initiative – GovSeverance**
 
 > "Power is maintained not by truth, but by perception engineering and recursive normalization."  
