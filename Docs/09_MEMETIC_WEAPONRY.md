@@ -51,7 +51,7 @@ Every effective meme carries:
 | 🌀 Recursive Meme    | “If they censor it, it’s probably true.” | Exploits trust decay in authority |
 | 🪤 Trap Loop         | “Trust the science. But never ask who funds it.” | Installs contradiction awareness |
 | 🎭 Institutional Parody | “Welcome to SmartCity™: Where freedom is predictive.” | Undermines technocratic utopia |
-| 🧬 Viral Sigil       | ![sovereign_loop.png](memes/sovereign_loop.png) | Symbol of cognitive recursion |
+| 🧬 Viral Sigil       | [sovereign_loop.png](memes/sovereign_loop.png) | Symbol of cognitive recursion |
 | 🔻 Inversion Line    | “The safest lie is the one that feels familiar.” | Targets narrative normalization |
 
 ---
