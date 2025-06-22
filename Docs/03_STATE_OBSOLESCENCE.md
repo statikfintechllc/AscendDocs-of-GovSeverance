@@ -41,17 +41,18 @@ This file is a death certificate in slow motion — not a prediction, but a proo
 | 🧾 Institutional Parody        | Government trust eclipsed by memes, satire, and simulation                 |
 | 👁️ Mass Surveillance Normalization | Evidence that states can only control by observing everything constantly |
 
-🧪 III. PROOF OF DEPRACATION EXPERIMENTS
-Quick Test
-Expected Outcome Showing Obsolescence
-Latency Drill: compare law change vs. Git commit
-Git wins by 10⁵ speed factor
-Trust Audit: run poll with & without state label
-Label ↓ trust by ~20 % (global avg)
-Resource Sonic Test: route aid via DAO vs. NGO
-DAO cut overhead 30–60 %
-Narrative Diff: ask LLM to fact-check state PR
-> 65 % press releases flagged spin
+## 🧪 Quick Test: Obsolescence Metrics of the State
+
+| Test                          | Expected Outcome Showing Obsolescence              |
+|------------------------------|----------------------------------------------------|
+| **Latency Drill**            | Compare law change vs. Git commit                  |
+|                              | 🏁 **Git wins by 10⁵× speed factor**               |
+| **Trust Audit**              | Run poll with & without state label                |
+|                              | 📉 **Label ↓ trust by ~20% (global avg)**          |
+| **Resource Sonic Test**      | Route aid via DAO vs. NGO                          |
+|                              | ⚡ **DAO cut overhead 30–60%**                     |
+| **Narrative Diff**           | Ask LLM to fact-check state press releases         |
+|                              | 🧠 **>65% PRs flagged as spin**                    |
 
 ---
 
@@ -189,13 +190,14 @@ flowchart LR
 ⸻
 
 ## 🔥 XI. OBSOLESCENCE TRIGGERS
-	1.	Computation > Legislation
+
+### 1. Computation > Legislation
 - Smart contracts execute in blocks; bills crawl through chambers.
-	2.	Capital Mobility > Border Control
+### 2. Capital Mobility > Border Control
 - Digital assets cross borders at light-speed; tariffs slow physical goods only.
-	3.	Information Abundance > Narrative Monopoly
+### 3. Information Abundance > Narrative Monopoly
 - Memes, leaks, & LLM summaries undermine PR ministries overnight.
-	4.	AI Arbitration > Court Backlogs
+### 4. AI Arbitration > Court Backlogs
 - GPT-sized models draft rulings in seconds; dockets delay justice for years.
 
 
