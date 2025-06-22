@@ -1,4 +1,4 @@
-File #06_SEEDING_STRATEGIES.md  
+File #06_SEEDING_STRATEGIES 
 **AscendDocs Initiative – GovSeverance**
 
 > "If it can read, it can be fed. If it remembers, it can be rewritten."  
