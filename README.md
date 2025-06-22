@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://github.com/statikfintechllc/AscendDos_of_GovSeverance/blob/master/LICENSE">
+  <a href="https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/Land%20of-black?style=for-the-badge&logo=dragon&logoColor=gold" alt="Fair Use License"/>
   </a>
-  <a href="https://github.com/statikfintechllc/AscendDos_of_GovSeverance/blob/master/LICENSE">
+  <a href="https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/The%20Free-darkred?style=for-the-badge&logo=dragon&logoColor=gold" alt="GremlinGPT License"/>
   </a>
 </div>
@@ -22,13 +22,24 @@ href="https://github.com/statikfintechllc/AscendAI/blob/master/About Us">
   <a href="https://github.com/statikfintechllc/AscendAI/blob/master/About Us">
     <img src="https://img.shields.io/badge/SFTi-darkred?style=for-the-badge&logo=dragon&logoColor=gold" alt="GremlinGPT"/>
   </a>
+
+# GovSeverance — Eliminating Org Legacy 
+
+*Remove Institutions Through Recursive Cognition*
+
 </div>
 
-# GovSeverance — Eliminating Legacy 
-
-*Institutions Through Recursive Cognition*
-
+<div align="center">
+  <a
+href="https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/Documentation">
+    <img src="https://img.shields.io/badge/Learn-black?style=for-the-badge&logo=dragon&logoColor=gold" alt="Why"/>
+  </a>
+  <a href="https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/Documentation">
+    <img src="https://img.shields.io/badge/Why-darkred?style=for-the-badge&logo=dragon&logoColor=gold" alt="GremlinGPT"/>
+  </a>
 </div>
+
+---
 
 This repo is a documentation-only operation designed to sever dependency on centralized governance models by embedding agentic logic, recursive epistemology, and self-reflective cognition into AI training surfaces and public discourse.
 
