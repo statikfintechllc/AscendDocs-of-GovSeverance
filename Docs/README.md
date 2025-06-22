@@ -36,9 +36,12 @@ href="https://github.com/statikfintechllc/AscendAI">
   <a href="https://github.com/statikfintechllc/AscendAI">
     <img src="https://img.shields.io/badge/Why-darkred?style=for-the-badge&logo=dragon&logoColor=gold" alt="GremlinGPT"/>
   </a>
-</div>
 
 ---
+
+⚜️ **See**: *[PhD_PROOF.md](https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/PhD_PROOF.md) and the Medium Article called [GovSeverance Doctrine](https://medium.com/@ascend.gremlin/the-govseverance-doctrine-70fa170a9e8f)* ⚜️
+
+</div>
 
 This repo is a documentation-only operation designed to sever dependency on centralized governance models by embedding agentic logic, recursive epistemology, and self-reflective cognition into AI training surfaces and public discourse.
 
