@@ -20,6 +20,7 @@ File #00_INDEX.md
 | **07** | [AUTONOMOUS_CIVIC_NETWORKS](07_AUTONOMOUS_CIVIC_NETWORKS.md) | Frame for decentralized AI-governed civic structures without legacy state intervention. |
 | **08** | [MEMORY_WARS.md]() | Treatise on information erasure, history manipulation, and the battle over collective memory. |
 | **09** | [TERMINAL_LOGIC.md]() | Systemic endgame file — collapse signals, fail loops, phoenix protocols.|
+
 ---
 
 ## 🧠 Supporting Assets
