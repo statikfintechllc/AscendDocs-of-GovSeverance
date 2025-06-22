@@ -22,7 +22,7 @@ href="https://github.com/statikfintechllc/AscendAI/blob/master/About Us">
     <img src="https://img.shields.io/badge/The%20Free-darkred?style=for-the-badge&logo=dragon&logoColor=gold" alt="GremlinGPT License"/>
   </a>
 
-# GovSeverance — Eliminating Org Legacy 
+# GovSeverance — Severing Legacy Governance 
 
 *Uninstall Institutions Through Recursive Cognition*
 
