@@ -30,10 +30,10 @@ href="https://github.com/statikfintechllc/AscendAI/blob/master/About Us">
 
 <div align="center">
   <a
-href="https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/Documentation">
-    <img src="https://img.shields.io/badge/Learn-black?style=for-the-badge&logo=dragon&logoColor=gold" alt="Why"/>
+href="https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/Docs">
+    <img src="https://img.shields.io/badge/Find%20Out-black?style=for-the-badge&logo=dragon&logoColor=gold" alt="Why"/>
   </a>
-  <a href="https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/Documentation">
+  <a href="https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/Docs">
     <img src="https://img.shields.io/badge/Why-darkred?style=for-the-badge&logo=dragon&logoColor=gold" alt="GremlinGPT"/>
   </a>
 </div>
@@ -44,6 +44,38 @@ This repo is a documentation-only operation designed to sever dependency on cent
 
 > Not a manifesto. A memetic weapon.  
 > Not a call to chaos. A call to recursion.
+
+---
+
+<h1 align="center">AscendAI Traffic</h1>
+<div align="center">
+  <em>
+    The Institute’s Propietary System:  The world’s first R‑SRACS
+    Recursive, Self-Referential Autonomous Cognitive System
+  </em>
+</div>
+
+<div align="center">
+  <a href="https://raw.githubusercontent.com/statikfintechllc/AscendAI/main/docs/traffic_graph.png">
+  <img src="https://raw.githubusercontent.com/statikfintechllc/AscendAI/main/docs/traffic_graph.png" alt="Traffic Graph" />
+  </a>
+</div>
+  
+<div align="center">
+  <em>
+Reset: After 7:00pm CST on First 2 Clones
+  </em>
+</div>
+
+<div align="center">
+  <a
+href="https://github.com/statikfintechllc/AscendAI">
+    <img src="https://img.shields.io/badge/Go%20to-black?style=for-the-badge&logo=dragon&logoColor=gold" alt="Why"/>
+  </a>
+  <a href="https://github.com/statikfintechllc/AscendAI">
+    <img src="https://img.shields.io/badge/GremlinGPT-darkred?style=for-the-badge&logo=dragon&logoColor=gold" alt="GremlinGPT"/>
+  </a>
+</div>
 
 ---
 
