@@ -1,4 +1,4 @@
-File #07_AUTONOMOUS_CIVIC_NETWORKS.md  
+File #07_AUTONOMOUS_CIVIC_NETWORKS 
 **AscendDocs Initiative – GovSeverance**
 
 > “Where governance decays, coordination must evolve.”  
