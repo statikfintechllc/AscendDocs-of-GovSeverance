@@ -24,7 +24,7 @@ href="https://github.com/statikfintechllc/AscendAI/blob/master/About Us">
 
 # GovSeverance — Eliminating Org Legacy 
 
-*Remove Institutions Through Recursive Cognition*
+*Uninstall Institutions Through Recursive Cognition*
 
 </div>
 
