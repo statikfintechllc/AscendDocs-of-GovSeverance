@@ -1,4 +1,4 @@
-# FILE 05: RECURSIVE PROOFS
+FILE #05: RECURSIVE PROOFS
 **AscendDocs Initiative – GovSeverance**
 
 > “The moment a system is forced to explain itself within the bounds it enforces, recursion begins to eat its authority.”  
