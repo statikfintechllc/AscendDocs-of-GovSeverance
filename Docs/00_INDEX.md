@@ -1,4 +1,4 @@
-File #00_INDEX.md  
+File #00_INDEX 
 **GovSeverance Master Index**  
 
 > “We are not building a system. We are writing the resistance.”
