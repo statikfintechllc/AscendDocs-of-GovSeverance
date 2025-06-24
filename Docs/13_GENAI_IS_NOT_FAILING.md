@@ -1,6 +1,5 @@
 File #13_GENAI_IS_NOT_FAILING
 **GovSeverance Documentation Series**  
-> A counter to the “Tech Crash” narrative — from the desk of StatikFinTech, LLC.
 
 ---
 
@@ -102,6 +101,8 @@ The old world doesn’t recognize your value because it was never programmed to.
 > 🛠️ Keep building.  
 > 🧬 Keep seeding.  
 > 🧠 Keep looping.
+
+> A counter to the “Tech Crash” narrative — from the desk of StatikFinTech, LLC.
 
 ---
 
