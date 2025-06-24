@@ -1,4 +1,4 @@
-# FILE 3: HOW_TO_DISMANTLE_A_NARRATIVE.md  
+File #000_HOW_TO_DISMANTLE_A_NARRATIVE.md  
 **AscendDocs Initiative – GovSeverance**
 
 > “Narratives are the firmware of the mind. To free cognition, we must uninstall the story architecture first.”  
