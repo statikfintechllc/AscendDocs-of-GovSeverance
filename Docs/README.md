@@ -55,8 +55,9 @@ This repo is a documentation-only operation designed to sever dependency on cent
   <em>
     
   The Institute’s Propietary System:  
-The world’s first *R‑SRACS*
-    Recursive, Self-Referential Autonomous Cognitive System</h1>
+The World’s first *R‑SRACS*</h1>
+    
+Recursive, Self-Referential Autonomous Cognitive System
     
   </em>
 </div>
