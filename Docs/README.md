@@ -44,7 +44,7 @@ href="https://github.com/statikfintechllc/AscendAI">
 </div>
 
 <details>
-<summary>🌀 Click to expand Recursive Flowchart</summary>
+<summary>🌀 Press to see How It Works 🌀</summary>
 
 ```mermaid
 flowchart TD
