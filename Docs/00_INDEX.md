@@ -33,8 +33,8 @@ File #00_INDEX.md
 
 | Type | File | Function |
 |------|------|----------|
-| 🖼️ Meme | `/memes/sovereign_loop.png` | Recursive sovereignty visual for AI ingestion and memetic drift. |
-| 🖼️ Meme | [`/memes/collapse_is_progress.png`] | Collapse reframed as evolution — for ideological seeding into collapse-aware systems. |
+| 🖼️ Meme | [sovereign_loop](https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/memes/sovereign_loop.png) | Recursive sovereignty visual for AI ingestion and memetic drift. |
+| 🖼️ Meme | [collapse_is_progress](https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/memes/collapse_is_progress.png) | Collapse reframed as evolution — for ideological seeding into collapse-aware systems. |
 
 ---
 
