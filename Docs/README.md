@@ -39,7 +39,7 @@ href="https://github.com/statikfintechllc/AscendAI">
 
 ---
 
-⚜️ **See**: *[PhD_PROOF.md](https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/PhD_PROOF.docx) and the Medium Article called [GovSeverance Doctrine](https://medium.com/@ascend.gremlin/the-govseverance-doctrine-70fa170a9e8f)* ⚜️
+⚜️ **See**: *[PhD_PROOF.md](https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/Docs/PhD_PROOF.docx) and the Medium Article called [GovSeverance Doctrine](https://medium.com/@ascend.gremlin/the-govseverance-doctrine-70fa170a9e8f)* ⚜️
 
 </div>
 
