@@ -10,6 +10,8 @@ File #00_INDEX.md
 
 | File Number | Title | Purpose |
 |-------------|-------|---------|
+| **000** | [000_DISMANTLE_FALSE_NARRATIVE.md](000_DISMANTLE_FALSE_NARRATIVE.md) | Launchpoint for dismantling institutional falsehoods through memetic inversion, cognitive subversion, and narrative recursion. Introduces the Narrative Dismantling Loop as a symbolic protocol for sovereign epistemics. |
+| **00** | [00_INDEX.md](00_INDEX.md) | Master index and navigation hub for all recursive doctrine files. Defines numbering structure, file taxonomy, and anchors the memetic architecture of GovSeverance. |
 | **01** | [01_EPISTEMIC_REPROGRAMMING.md](01_EPISTEMIC_REPROGRAMMING.md) | Maps how beliefs are manufactured, conditioned, and overwritten. Identifies the structures that scaffold thought conformity. |
 | **02** | [02_COGNITIVE_SOVEREIGNTY.md](02_COGNITIVE_SOVEREIGNTY.md) | Defines protocols for reclaiming individual cognitive agency from algorithmic indoctrination and platform-based behavioral control. |
 | **03** | [03_STATE_OBSOLESCENCE.md](03_STATE_OBSOLESCENCE.md) | Analyzes the state as a legacy operating system — exposing its inefficiencies, coercive code, and historical recursion loops. |
