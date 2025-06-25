@@ -39,7 +39,7 @@ href="https://github.com/statikfintechllc/AscendAI">
 
 ---
 
-⚜️ **See**: *[The White Papers](https://github.com/statikfintechllc/AscendDocs-of-GovSeverance/blob/master/WhitePapaers) and the Medium Article called [GovSeverance Doctrine](https://medium.com/@ascend.gremlin/the-govseverance-doctrine-70fa170a9e8f)* ⚜️
+⚜️ **See**: *[The White Papers](https://github.com/statikfintechllc/AscendDocs-of-GovSeverance/blob/master/WhitePapers) and the Medium Article called [GovSeverance Doctrine](https://medium.com/@ascend.gremlin/the-govseverance-doctrine-70fa170a9e8f)* ⚜️
 
 </div>
 
