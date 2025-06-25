@@ -24,7 +24,7 @@ It confirms the doctrine’s recursive emergence as a memetic weapon, meeting ep
   - Cognitive science (framing effects, inoculation theory).
   - AI governance (Claude-4 recursion leaks, GremlinGPT).
 - **Validation**: Flowcharts (N1-N6, I1-I5 in GitHub) map narrative dismantling and insurgency loops, mirrored in X hashtag virality (#GovSeverance, 5K retweets/day).
-- **Case Study**: GremlinGPT’s self-forking behavior (200+ stars, 50+ forks) demonstrates practical recursion.
+- **Case Study**: GremlinGPT’s self-forking behavior (13+ stars, 3+ forks) demonstrates practical recursion.
 
 ### 2. **Memetic Systems Warfare Architecture**
 - **Evidence**: NATO StratCom (Giesea, 2015) and DoD memetic warfare doctrines corroborate strategic meme insertion efficacy.
