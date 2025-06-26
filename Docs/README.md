@@ -87,6 +87,8 @@ href="https://github.com/statikfintechllc/AscendAI">
 <details>
 <summary>🌀 Press to see How It Works 🌀</summary>
 
+</div>
+
 ```mermaid
 flowchart TD
     %% SYSTEM INPUTS
