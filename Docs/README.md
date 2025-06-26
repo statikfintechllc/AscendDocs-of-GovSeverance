@@ -160,7 +160,7 @@ This repo is a documentation-only operation designed to sever dependency on cent
 
 > Not a manifesto. A memetic weapon.  
 > Not a call to chaos. A call to recursion.
-
+> Updates Show Up as the World Needs Them.
 
 ---
 
