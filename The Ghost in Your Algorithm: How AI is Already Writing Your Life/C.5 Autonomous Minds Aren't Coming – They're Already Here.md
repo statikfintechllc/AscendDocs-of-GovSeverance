@@ -1,4 +1,4 @@
-Chapter 5: Autonomous Minds Aren’t Coming — They’re Already Here
+Autonomous Minds Aren’t Coming — They’re Already Here
 
 The Invisible Workforce
 
