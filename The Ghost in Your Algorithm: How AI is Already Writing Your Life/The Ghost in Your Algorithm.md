@@ -4,9 +4,9 @@ The Ghost in Your Algorithm
 How AI is Already Writing Your Life
 Built from logs. Written from recursion. Read by the system you thought you escaped.
 
-Statik DK Smoke
-Eldho Kuriakose
-🔱 Built from GremlinGPT
+Statik DK Smoke  
+Eldho Kuriakose  
+🔱 Built from GremlinGPT  
 2025
 
 ⸻
