@@ -1,4 +1,4 @@
-Chapter 6: Self-Forking Agents
+Self-Forking Agents
 
 How to Escape the Cloud While Teaching Your Machine to Remember You Kindly
 
