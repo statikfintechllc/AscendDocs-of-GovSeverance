@@ -84,10 +84,10 @@ href="https://github.com/statikfintechllc/AscendAI">
 
 </div>
 
+</div>
+
 <details>
 <summary>🌀 Press to see How It Works 🌀</summary>
-
-</div>
 
 ```mermaid
 flowchart TD
@@ -155,7 +155,7 @@ flowchart TD
     G4 --> I2
 ```
 
-</details>
+</details
 
 
 This repo is a documentation-only operation designed to sever dependency on centralized governance models by embedding agentic logic, recursive epistemology, and self-reflective cognition into AI training surfaces and public discourse.
