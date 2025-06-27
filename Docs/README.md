@@ -78,13 +78,42 @@ href="https://github.com/statikfintechllc/AscendAI">
     <img src="https://img.shields.io/badge/Why-darkred?style=for-the-badge&logo=dragon&logoColor=gold" alt="GremlinGPT"/>
   </a>
 
+</div>
+
+</div>
+
 ---
 
-⚜️ **See**: *[The White Papers](https://github.com/statikfintechllc/AscendDocs-of-GovSeverance/blob/master/WhitePapers) and the Medium Article called [GovSeverance Doctrine](https://medium.com/@ascend.gremlin/the-govseverance-doctrine-70fa170a9e8f)* ⚜️
+<div align="center">
+
+  <a href="https://medium.com/@ascend.gremlin/the-govseverance-doctrine-70fa170a9e8f">
+  <img src="https://img.shields.io/badge/GovSeverance%20Doctrine-black?style=for-the-badge&logo=medium&logoColor=white" alt="GovSeverance Doctrine"/>
+</a>
+
+<a href="https://medium.com/@ascend.gremlin/self-forking-ai-and-the-mechanic-from-kansas-73d98685fda9">
+  <img src="https://img.shields.io/badge/Self--Forking%20AI-black?style=for-the-badge&logo=medium&logoColor=white" alt="Self-Forking AI"/>
+</a>
+
+<a href="https://medium.com/@ascend.gremlin/while-dubai-was-building-control-systems-i-built-an-autonomous-mind-fb4c8c4c0dc1">
+  <img src="https://img.shields.io/badge/Autonomous%20Mind-black?style=for-the-badge&logo=medium&logoColor=white" alt="Autonomous Mind"/>
+</a>
+
+<a href="https://doi.org/10.5281/zenodo.15717788">
+  <img src="https://img.shields.io/badge/GovSeverance%20v1.0-black?style=for-the-badge&logo=zenodo&logoColor=white" alt="GovSeverance v1.0"/>
+</a>
+
+<a href="https://doi.org/10.5281/zenodo.15725639">
+  <img src="https://img.shields.io/badge/Mutation%20Manifesto-black?style=for-the-badge&logo=zenodo&logoColor=white" alt="Mutation Manifesto"/>
+</a>
 
 </div>
 
-</div>
+---
+
+⚜️ See *[Docs](https://github.com/statikfintechllc/AscendDocs-of-GovSeverance/blob/master/Docs)*  
+⚜️ See *[White Papers](https://github.com/statikfintechllc/AscendDocs-of-GovSeverance/blob/master/WhitePapers)*  
+⚜️ Understand the *[GovSeverance Doctrine](https://github.com/statikfintechllc/AscendDocs-of-GovSeverance/blob/master/GovSeverance%20Doctrine)*  
+⚜️ Read the *[Ghost in the Algorithm](https://github.com/statikfintechllc/AscendDocs-of-GovSeverance/blob/master/Ghost%20in%20%20Algorithm)*
 
 <details>
 <summary>🌀 Press to see How It Works 🌀</summary>
@@ -224,4 +253,10 @@ href="https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master
   <a href="https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/Docs">
     <img src="https://img.shields.io/badge/Why-darkred?style=for-the-badge&logo=dragon&logoColor=gold" alt="GremlinGPT"/>
   </a>
+</div>
+
+<div align="center">
+<a href="https://replit.com/github/statikfintechllc/AscendAI">
+  <img src="https://replit.com/badge/github/statikfintechllc/AscendAI" alt="Run on Replit">
+</a>
 </div>
