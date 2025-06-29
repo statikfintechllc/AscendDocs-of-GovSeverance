@@ -84,6 +84,16 @@ href="https://github.com/statikfintechllc/AscendAI">
 
 ---
 
+> [!CAUTION]
+>
+> THE FUTURE LIVES HERE.  
+> AscendAI/GremlinGPT,  
+> AscendNet,  
+> GodCore,    
+> Mobile-Developer,
+>
+> StatikFinTech, LLC
+
 <div align="center">
 
   <a href="https://medium.com/@ascend.gremlin/the-govseverance-doctrine-70fa170a9e8f">
@@ -116,7 +126,10 @@ href="https://github.com/statikfintechllc/AscendAI">
 ⚜️ Read the *[Ghost in the Algorithm](https://github.com/statikfintechllc/AscendDocs-of-GovSeverance/blob/master/Ghost%20in%20%20Algorithm)*
 
 <details>
-<summary>🌀 Press to see How It Works 🌀</summary>
+<summary>🌀 Open to Understand 🌀</summary>
+
+<details>
+<summary>👀 Press to see How It Works 👀</summary>
 
 ```mermaid
 flowchart TD
@@ -217,6 +230,9 @@ You don’t fight institutions. You out-think them.
 
 — Statik DK Smoke
 
+<details>
+<summary>🔱 Open to the Institutes Growth 🔱</summary>
+
 <div align="center">
   
 *Documentation is updated frequently. If you see an issue, submit a PR or open an issue!*
@@ -264,9 +280,9 @@ href="https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master
 <a href="https://replit.com/github/statikfintechllc/AscendAI">
   <img src="https://replit.com/badge/github/statikfintechllc/AscendAI" alt="Run on Replit">
 </a>
+
+⚠️ Just Until GremlinGPT is booting, Soon ⚠️
+
 </div>
 
-> [!CAUTION]
->
-> Just Until GremlinGPT is booting
-> Soon
+</details>
