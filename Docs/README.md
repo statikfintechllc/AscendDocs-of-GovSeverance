@@ -255,8 +255,18 @@ href="https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master
   </a>
 </div>
 
+---
+
 <div align="center">
+
+## Make your Own App:
+
 <a href="https://replit.com/github/statikfintechllc/AscendAI">
   <img src="https://replit.com/badge/github/statikfintechllc/AscendAI" alt="Run on Replit">
 </a>
 </div>
+
+> [!CAUTION]
+>
+> Just Until GremlinGPT is booting
+> Soon
