@@ -90,12 +90,13 @@ href="https://github.com/statikfintechllc/AscendAI">
 > [!CAUTION]
 >
 > THE FUTURE LIVES HERE.  
+> In these:
 > AscendAI/GremlinGPT,  
 > AscendNet,  
 > GodCore,    
 > Mobile-Developer,
 >
-> StatikFinTech, LLC
+> From: StatikFinTech, LLC
 
 <div align="center">
 
