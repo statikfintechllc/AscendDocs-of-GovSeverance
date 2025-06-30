@@ -1,5 +1,8 @@
 <div align="center">
-  <!-- GitHub Stats -->
+<img     src="https://raw.githubusercontent.com/statikfintechllc/AscendAI/master/docs/ticker-bot/ticker.gif" 
+    alt="Repo Ticker Stats" 
+    style="height:33px;" /
+
 
 <div align="center"> 
   <img src="https://img.shields.io/github/stars/statikfintechllc/AscendDocs-of-GovSeverance?style=social" alt="Stars"/>
@@ -63,9 +66,10 @@ href="https://github.com/statikfintechllc/AscendAI/blob/master/About Us">
     <img src="https://img.shields.io/badge/The%20Free-darkred?style=for-the-badge&logo=dragon&logoColor=gold" alt="GremlinGPT License"/>
   </a>
 
-# GovSeverance — Severing Legacy Governance 
+# AscendDocs of GovSeverance
+### Severing Legacy Governance 
 
-*Uninstall Institutions Through Recursive Cognition*
+*Uninstall Institutions Through Recursive Cognition, Open Intel & Firmware for All*
 
 </div>
 
@@ -250,8 +254,8 @@ You don’t fight institutions. You out-think them.
 </div>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/statikfintechllc/AscendAI/main/docs/traffic_graph.png">
-  <img src="https://raw.githubusercontent.com/statikfintechllc/AscendAI/main/docs/traffic_graph.png" alt="Traffic Graph" />
+  <a href="https://raw.githubusercontent.com/statikfintechllc/AscendAI/master/docs/graph/traffic_graph.png">
+  <img src="https://raw.githubusercontent.com/statikfintechllc/AscendAI/master/docs/graph/traffic_graph.png" alt="Traffic Graph" />
   </a>
 </div>
   
