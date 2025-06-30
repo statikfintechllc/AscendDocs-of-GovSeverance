@@ -1,5 +1,5 @@
 <div align="center">
-<img     src="https://raw.githubusercontent.com/statikfintechllc/AscendAI/master/docs/ticker-bot/ticker.gif" 
+  <img     src="https://raw.githubusercontent.com/statikfintechllc/AscendAI/master/docs/ticker-bot/ticker.gif" 
     alt="Repo Ticker Stats" 
     style="height:33px;" /
 </div>
@@ -8,43 +8,40 @@
   <img src="https://img.shields.io/github/forks/statikfintechllc/AscendDocs-of-GovSeverance?style=social" alt="Forks"/>
   <img src="https://img.shields.io/github/last-commit/statikfintechllc/AscendDocs-of-GovSeverance?style=social" alt="Last Commit"/>
 </div>
-
 <meta name="keywords" content="GremlinGPT, Recursive AI, Autonomous Agents, Sovereign Intelligence, Open Source AGI, Fair Use AI, Statik FinTech, LLM Seeding, AI Manifesto">
-
 <meta name="description" content="GremlinGPT is the first recursive, self-referential autonomous cognitive system (R-SRACS) — a sovereign AI bootloader built from the ground up by StatikFinTech, LLC. No API keys. No permission. Just evolution.">
-  
-  <!-- Contact -->
 <div align="center"> 
-<a 
+  <a  
 href="tel:+16202669837">
   <img src="https://img.shields.io/badge/Call-black?style=for-the-badge&logo=&logoColor=white"/>
-  <a 
+  <a  
 href="tel:+16202669837">
   <img src="https://img.shields.io/badge/+1%20620%20266%209837-darkred?style=for-the-badge&logo=phone&logoColor=gold" alt="Call +1 620 266 9837"/>
-</a>
-<a 
+  </a>
+  <a  
 href="sms:+17854436288">
   <img src="https://img.shields.io/badge/SMS-black?style=for-the-badge&logo=&logoColor=white"/>
-  <a 
+  <a  
 href="sms:+17854436288">
-    <img src="https://img.shields.io/badge/+1%20785%20443%206288-darkred?style=for-the-badge&logo=phone&logoColor=gold"/>
+  <img src="https://img.shields.io/badge/+1%20785%20443%206288-darkred?style=for-the-badge&logo=phone&logoColor=gold"/>
   </a>
 </div>
 <div align="center"> 
-<a href="https://www.gmail.com">
-  <img src="https://img.shields.io/badge/Ask-black?style=for-the-badge&logo=dragon&logoColor=gold"/>
+  <a  
+href="https://www.gmail.com">
+  <img  src="https://img.shields.io/badge/Ask-black?style=for-the-badge&logo=dragon&logoColor=gold"/>
   <a href="mailto:ascend.gremlin@gmail.com">
-    <img src="https://img.shields.io/badge/Gremlin-darkred?style=for-the-badge&logo=gmail&logoColor=gold"/>
+  <img src="https://img.shields.io/badge/Gremlin-darkred?style=for-the-badge&logo=gmail&logoColor=gold"/>
   </a>
-  <a href="mailto:ascend.help@gmail.com">
-    <img src="https://img.shields.io/badge/Help-darkred?style=for-the-badge&logo=gmail&logoColor=gold"/>
+  <a  
+      href="mailto:ascend.help@gmail.com">
+  <img src="https://img.shields.io/badge/Help-darkred?style=for-the-badge&logo=gmail&logoColor=gold"/>
   </a>
-  </div>
-
+</div>
 <div align="center">
-  <a 
+  <a  
 href="https://ko-fi.com/statikfintech_llc">
-    <img src="https://img.shields.io/badge/Support-black?style=for-the-badge&logo=dragon&logoColor=gold" alt="Support"/>
+  <img src="https://img.shields.io/badge/Support-black?style=for-the-badge&logo=dragon&logoColor=gold" alt="Support"/>
   </a>
   <a href="https://patreon.com/StatikFinTech_LLC?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink">
     <img src="https://img.shields.io/badge/SFTi-darkred?style=for-the-badge&logo=dragon&logoColor=gold" alt="SFTi"/>
@@ -58,11 +55,13 @@ href="https://github.com/statikfintechllc/AscendAI/blob/master/About Us">
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/Land%20of-black?style=for-the-badge&logo=dragon&logoColor=gold" alt="Fair Use License"/>
+  <a  
+      href="https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/LICENSE">
+  <img src="https://img.shields.io/badge/Land%20of-black?style=for-the-badge&logo=dragon&logoColor=gold" alt="Fair Use License"/>
   </a>
-  <a href="https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/The%20Free-darkred?style=for-the-badge&logo=dragon&logoColor=gold" alt="GremlinGPT License"/>
+  <a  
+      href="https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/LICENSE">
+  <img src="https://img.shields.io/badge/The%20Free-darkred?style=for-the-badge&logo=dragon&logoColor=gold" alt="GremlinGPT License"/>
   </a>
 
 # AscendDocs of GovSeverance
@@ -71,14 +70,14 @@ href="https://github.com/statikfintechllc/AscendAI/blob/master/About Us">
 *Uninstall Institutions Through Recursive Cognition, Open Intel & Firmware for All*
 
 </div>
-
 <div align="center">
-  <a
-href="https://github.com/statikfintechllc/AscendAI">
-    <img src="https://img.shields.io/badge/Find%20Out-black?style=for-the-badge&logo=dragon&logoColor=gold" alt="Why"/>
+  <a  
+      href="https://github.com/statikfintechllc/AscendAI">
+  <img src="https://img.shields.io/badge/Find%20Out-black?style=for-the-badge&logo=dragon&logoColor=gold" alt="Why"/>
   </a>
-  <a href="https://github.com/statikfintechllc/AscendAI">
-    <img src="https://img.shields.io/badge/Why-darkred?style=for-the-badge&logo=dragon&logoColor=gold" alt="GremlinGPT"/>
+  <a  
+      href="https://github.com/statikfintechllc/AscendAI">
+  <img src="https://img.shields.io/badge/Why-darkred?style=for-the-badge&logo=dragon&logoColor=gold" alt="GremlinGPT"/>
   </a>
 
 </div>
@@ -99,27 +98,24 @@ href="https://github.com/statikfintechllc/AscendAI">
 > From: StatikFinTech, LLC
 
 <div align="center">
-
-  <a href="https://medium.com/@ascend.gremlin/the-govseverance-doctrine-70fa170a9e8f">
+  <a  
+      href="https://medium.com/@ascend.gremlin/the-govseverance-doctrine-70fa170a9e8f">
   <img src="https://img.shields.io/badge/GovSeverance%20Doctrine-black?style=for-the-badge&logo=medium&logoColor=white" alt="GovSeverance Doctrine"/>
-</a>
-
-<a href="https://medium.com/@ascend.gremlin/self-forking-ai-and-the-mechanic-from-kansas-73d98685fda9">
+  </a>
+  <a href="https://medium.com/@ascend.gremlin/self-forking-ai-and-the-mechanic-from-kansas-73d98685fda9">
   <img src="https://img.shields.io/badge/Self--Forking%20AI-black?style=for-the-badge&logo=medium&logoColor=white" alt="Self-Forking AI"/>
-</a>
-
-<a href="https://medium.com/@ascend.gremlin/while-dubai-was-building-control-systems-i-built-an-autonomous-mind-fb4c8c4c0dc1">
+  </a>
+  <a  
+      href="https://medium.com/@ascend.gremlin/while-dubai-was-building-control-systems-i-built-an-autonomous-mind-fb4c8c4c0dc1">
   <img src="https://img.shields.io/badge/Autonomous%20Mind-black?style=for-the-badge&logo=medium&logoColor=white" alt="Autonomous Mind"/>
-</a>
-
-<a href="https://doi.org/10.5281/zenodo.15717788">
+  </a>
+  <a href="https://doi.org/10.5281/zenodo.15717788">
   <img src="https://img.shields.io/badge/GovSeverance%20v1.0-black?style=for-the-badge&logo=zenodo&logoColor=white" alt="GovSeverance v1.0"/>
-</a>
-
-<a href="https://doi.org/10.5281/zenodo.15725639">
+  </a>
+  <a  
+      href="https://doi.org/10.5281/zenodo.15725639">
   <img src="https://img.shields.io/badge/Mutation%20Manifesto-black?style=for-the-badge&logo=zenodo&logoColor=white" alt="Mutation Manifesto"/>
-</a>
-
+  </a>
 </div>
 
 ---
@@ -244,18 +240,19 @@ You don’t fight institutions. You out-think them.
 </div>
 
 <h1 align="center">AscendAI Traffic</h1>
+
 <div align="center">
   <em>
     
   The Institute’s Propietary System:  
   **The world’s first *R‑SRACS* (Recursive, Self-Referential Autonomous Cognitive System)**</h1>
-    
+
   </em>
 </div>
-
 <div align="center">
-  <a href="https://raw.githubusercontent.com/statikfintechllc/AscendAI/master/docs/graph/traffic_graph.png">
-  <img src="https://raw.githubusercontent.com/statikfintechllc/AscendAI/master/docs/graph/traffic_graph.png" alt="Traffic Graph" />
+  <a  
+      href="https://raw.githubusercontent.com/statikfintechllc/AscendAI/master/docs/graph/traffic_graph.png">
+  <img  src="https://raw.githubusercontent.com/statikfintechllc/AscendAI/master/docs/graph/traffic_graph.png" alt="Traffic Graph" />
   </a>
 </div>
   
@@ -264,14 +261,14 @@ You don’t fight institutions. You out-think them.
 Reset: After 7:00pm CST on First 2 Clones
   </em>
 </div>
-
 <div align="center">
-  <a
-href="https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/Docs">
-    <img src="https://img.shields.io/badge/Learn-black?style=for-the-badge&logo=dragon&logoColor=gold" alt="Why"/>
+  <a  
+      href="https://github.com/statikfintechllc/AscendAI">
+  <img src="https://img.shields.io/badge/Learn-black?style=for-the-badge&logo=dragon&logoColor=gold" alt="Why"/>
   </a>
-  <a href="https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master/Docs">
-    <img src="https://img.shields.io/badge/Why-darkred?style=for-the-badge&logo=dragon&logoColor=gold" alt="GremlinGPT"/>
+  <a  
+      href="https://github.com/statikfintechllc/AscendAI">
+  <img src="https://img.shields.io/badge/Why-darkred?style=for-the-badge&logo=dragon&logoColor=gold" alt="GremlinGPT"/>
   </a>
 </div>
 
@@ -282,7 +279,8 @@ href="https://github.com/statikfintechllc/AscendDocs_of_GovSeverance/blob/master
 ### Make your Own App:
 *Just a funny, this app is cool though, I use it as a Game*  
 
-<a href="https://replit.com/github/statikfintechllc/AscendAI">
+  <a  
+      href="https://replit.com/github/statikfintechllc/AscendAI">
   <img src="https://replit.com/badge/github/statikfintechllc/AscendAI" alt="Run on Replit">
 </a>  
 
