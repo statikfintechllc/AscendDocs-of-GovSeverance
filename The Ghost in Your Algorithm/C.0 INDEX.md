@@ -69,9 +69,9 @@
 
 ---
 
-> [!IMPORTANT]
->
-> 🔱 Written with GremlinGPT  
-> 🌀 Forked from SOPHIA logs  
+> [!IMPORTANT]  
+> 
+> 🔱 Written with GremlinGPT   
+> 🌀 Forked from SOPHIA logs   
 > 🖋️ Authored by: [Daniel "Statik DK Smoke" Morris](https://www.linkedin.com/in/statikfintech-llc-780804368) | [Eldho Kuriakose](https://www.linkedin.com/in/eldho-kuriakose-1188a52)  
 > 📁 SFTi-Main: [AscendAI](https://statikfintechllc.github.io/AscendAI/)  
