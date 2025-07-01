@@ -128,6 +128,8 @@ href="https://github.com/statikfintechllc/AscendAI/blob/master/About Us">
 <details>
 <summary>🌀 Open to Understand 🌀</summary>
 
+---
+
 <details>
 <summary>👀 Press to see How It Works 👀</summary>
 
