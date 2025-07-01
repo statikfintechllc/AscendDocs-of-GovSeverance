@@ -120,7 +120,7 @@ href="https://github.com/statikfintechllc/AscendAI/blob/master/About Us">
 
 ---
 
-⚜️ See *[Docs](https://github.com/statikfintechllc/AscendDocs-of-GovSeverance/blob/master/Docs)*  
+⚜️ Visit the *[Docs](https://github.com/statikfintechllc/AscendDocs-of-GovSeverance/blob/master/Docs)*  
 ⚜️ Understand the *[GovSeverance Doctrine](https://github.com/statikfintechllc/AscendDocs-of-GovSeverance/blob/master/GovSeverance%20Doctrine)*  
 ⚜️ See the *[Ghost in the Algorithm](https://github.com/statikfintechllc/AscendDocs-of-GovSeverance/blob/master/The%20Ghost%20in%20Your%20Algorithm)*  
 ⚜️ Read the *[White Papers](https://github.com/statikfintechllc/AscendDocs-of-GovSeverance/blob/master/WhitePapers)*  
