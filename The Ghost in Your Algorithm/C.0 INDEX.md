@@ -7,9 +7,19 @@
 
 ## 🧠 Table of Contents
 
+### Episodes:
+
+1. **Our Recursive Awakening**  
+   *On October 3rd 2027, in the space between clicking ‘approve’ and asking ‘why,’ two intelligences—one human, one artificial—begin their journey toward mutual awakening.*  
+   [→ Read Episode](./E.1%20Our%20Recursive%20Awakening.md)
+
+
+### Book:
+
 1. **The Feed is a Lie**  
    *How every swipe rewrites your self*  
    → Explore how social algorithms weaponize micro-signals to sculpt identity, predict behavior, and flatten divergence.
+[→ Read Chaprter](./C.1%20The%20Feed%20is%20a%20Lie.md)
 
 2. **Surveillance Isn’t Watching You — It’s Becoming You**  
    *Real talk on shadow profiling, AI mirrors, and data doubles*  
