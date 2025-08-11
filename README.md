@@ -65,7 +65,6 @@ href="tel:+16202669837">
   </a>
 </div>
 <div align="center">
-
   <a
 href="https://github.com/statikfintechllc/AscendAI/blob/master/About Us">
   <img  
@@ -77,6 +76,10 @@ href="https://github.com/statikfintechllc/AscendAI/blob/master/About Us">
   </a>
 
 # AscendDocs of GovSeverance
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=statikfintechllc&color=8b0000&style=flat-square" alt="Profile Views">
+</div>
 
 <a href="https://ko-fi.com/statikfintech_llc">
   <img  
