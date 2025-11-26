@@ -489,14 +489,269 @@ Equity split (typical):
 
 ### **Market Risks:**
 
+```txt
+Risk 1: Competition from Big Tech
+├── Threat: Apple, Google, NVIDIA release similar devices
+├── Probability: Medium-High
+├── Impact: High
+└── Mitigation:
+    ├── Focus on niche (developers, local AI enthusiasts)
+    ├── Open ecosystem differentiator
+    ├── First-mover advantage in mobile AI dev hardware
+    └── Community-driven development impossible for big corps
+
+Risk 2: Market Size Uncertainty
+├── Threat: TAM smaller than projected
+├── Probability: Medium
+├── Impact: Medium
+└── Mitigation:
+    ├── Pre-order validation before manufacturing
+    ├── Start with Kickstarter/Indiegogo gauge
+    ├── Pivot to B2B if consumer demand weak
+    └── Enterprise/developer focus reduces consumer risk
+
+Risk 3: Consumer Adoption Hesitancy
+├── Threat: Humane AI Pin / Rabbit R1 failures hurt category
+├── Probability: Medium
+├── Impact: High
+└── Mitigation:
+    ├── Position as "developer tool" not "consumer gadget"
+    ├── Emphasize practical use cases with demos
+    ├── Transparent pricing (no hidden subscriptions)
+    └── Show real-world workflows, not gimmicks
+
+Risk 4: Pricing Sensitivity
+├── Threat: $2,500-$3,500 too expensive for target market
+├── Probability: Medium
+├── Impact: Medium-High
+└── Mitigation:
+    ├── Financing options (Affirm, Klarna integration)
+    ├── Trade-in programs
+    ├── Enterprise/team licensing bundles
+    └── ROI calculator showing time savings
+```
 
 ### **Execution Risks:**
 
+```txt
+Risk 1: Manufacturing Delays
+├── Threat: ODM/CM partner misses deadlines
+├── Probability: High (common in hardware)
+├── Impact: High
+└── Mitigation:
+    ├── 6-month buffer in timeline
+    ├── Multiple ODM quotes (backup suppliers)
+    ├── Penalty clauses in contracts
+    └── Regular on-site inspections
+
+Risk 2: Component Shortages
+├── Threat: APU, RAM, or display supply issues
+├── Probability: Medium
+├── Impact: High
+└── Mitigation:
+    ├── Pre-order components 12+ months ahead
+    ├── AMD/Samsung direct relationships
+    ├── Alternative component specs ready
+    └── Buffer inventory for critical parts
+
+Risk 3: Software Integration Challenges
+├── Threat: Linux drivers unstable, performance issues
+├── Probability: Medium
+├── Impact: Medium
+└── Mitigation:
+    ├── Partner with AMD for driver support
+    ├── Hire dedicated Linux kernel developer
+    ├── Use proven components with existing support
+    └── Extended beta testing period (6+ months)
+
+Risk 4: Team/Co-founder Risk
+├── Threat: Key team member leaves or burns out
+├── Probability: Medium
+├── Impact: Critical
+└── Mitigation:
+    ├── Clear equity vesting (4-year cliff)
+    ├── Document all processes and decisions
+    ├── Cross-train team members
+    └── Advisory board for guidance
+
+Risk 5: Funding Gap
+├── Threat: Runway runs out before product launch
+├── Probability: Medium
+├── Impact: Critical
+└── Mitigation:
+    ├── Conservative burn rate ($50k/month max pre-launch)
+    ├── Milestone-based fundraising
+    ├── Revenue from pre-orders
+    └── Bridge financing options identified
+```
 
 ## **Success Metrics**
 
+```txt
+Phase 1: Validation (Months 1-3)
+├── Email signups: 500+ interested developers
+├── Survey responses: 200+ detailed feedback
+├── Social media engagement: 10k+ impressions
+├── Landing page conversion: >5% email capture rate
+└── Key insight: Clear demand signal before investment
+
+Phase 2: Pre-Production (Months 4-9)
+├── Crowdfunding goal: $500,000 (minimum viable)
+├── Stretch goal: $2,000,000 (expanded features)
+├── Pre-order units: 500+ (Pro tier)
+├── Co-founder secured: Hardware engineer onboard
+└── ODM partnership: Letter of intent signed
+
+Phase 3: Production & Launch (Months 10-18)
+├── Manufacturing yield: >95% pass rate
+├── On-time delivery: 90% of pre-orders fulfilled
+├── Initial reviews: 4.0+ stars average
+├── Return rate: <5%
+└── Customer satisfaction: NPS score >50
+
+Phase 4: Growth (Months 18-24)
+├── Monthly units sold: 200+ (growing 10% MoM)
+├── Revenue run rate: $500k+ annually
+├── Repeat customers: 15%+ (accessories, upgrades)
+├── Community size: 5,000+ active developers
+└── Partner integrations: 10+ software partners
+
+Long-Term Success Indicators:
+├── Profitability: Positive unit economics by Month 12
+├── Brand recognition: Top 5 in "mobile AI hardware" searches
+├── Ecosystem: 50+ community-developed apps/tools
+├── Enterprise adoption: 5+ B2B pilot programs
+└── Follow-on funding: Series A at $10M+ valuation
+```
 
 ## **The Pitch (60 Seconds)**
 
+```txt
+"Every developer I know carries two things: a phone for communication 
+and a laptop for real work. But what if you could run serious AI models,
+full development environments, and multi-agent workflows from your pocket?
 
-## 1 Year Plan
+That's S-IA.
+
+We've packed a 96GB unified memory architecture, 50+ TOPS of AI compute,
+and a full Linux development stack into a device smaller than a paperback book.
+No cloud dependency. No subscription fees. No compromises.
+
+Run Llama 3 70B at 20 tokens per second. Deploy 4 AI agents simultaneously.
+Spin up Docker containers on the subway. All with 12 hours of battery life.
+
+The $3,000 question isn't 'Is this worth it?' 
+It's 'How much is your time worth?'
+
+For developers building the future of AI, this isn't a gadget.
+It's a competitive advantage that fits in your pocket.
+
+We're seeking $500k to bring the first 500 units to market.
+Join us in making local AI truly mobile."
+```
+
+**Alternative One-Liner Pitches:**
+
+- "The M3 MacBook Air power, fits in your pocket, runs Linux and local AI."
+- "Steam Deck for developers: Run 70B parameter models anywhere."
+- "Your personal AI supercomputer, no cloud required."
+- "Pocket-sized development machine for the AI era."
+
+## **1 Year Plan**
+
+```txt
+QUARTER 1 (Months 1-3): Validation & Foundation
+├── Month 1: Market Research
+│   ├── Launch landing page + email capture
+│   ├── Post to r/LocalLLaMA, r/SelfHosted, Hacker News
+│   ├── Conduct 20+ developer interviews
+│   ├── Finalize feature prioritization
+│   └── Deliverable: 500+ email signups, validated demand
+│
+├── Month 2: Team Building
+│   ├── Recruit hardware engineering co-founder
+│   ├── Engage legal counsel (IP, incorporation)
+│   ├── Set up corporation (Delaware C-Corp)
+│   ├── Create pitch deck v1
+│   └── Deliverable: Core team of 2-3, legal foundation
+│
+├── Month 3: Prototype Planning
+│   ├── Finalize component selection
+│   ├── Get ODM quotes (3+ manufacturers)
+│   ├── Design system architecture
+│   ├── Begin PCB schematic design
+│   └── Deliverable: BOM locked, ODM shortlist, design docs
+
+QUARTER 2 (Months 4-6): Fundraising & Engineering
+├── Month 4: Seed Fundraising
+│   ├── Angel investor outreach (20+ meetings)
+│   ├── Apply to accelerators (Y Combinator, HAX)
+│   ├── Prepare Kickstarter campaign assets
+│   ├── Build functional breadboard prototype
+│   └── Deliverable: Term sheets or accelerator acceptance
+│
+├── Month 5: Hardware Development
+│   ├── PCB layout completion
+│   ├── Order development boards (5-10 units)
+│   ├── Thermal simulation and testing
+│   ├── Industrial design mockups (3D renders)
+│   └── Deliverable: Working dev boards, ID concepts
+│
+├── Month 6: Software Foundation
+│   ├── Linux bring-up on dev boards
+│   ├── Driver development/porting
+│   ├── Basic OS image creation
+│   ├── Begin SFTi software suite development
+│   └── Deliverable: Bootable Linux system, basic UI
+
+QUARTER 3 (Months 7-9): Pre-Production & Crowdfunding
+├── Month 7: Crowdfunding Launch
+│   ├── Launch Kickstarter/Indiegogo campaign
+│   ├── PR push (tech blogs, YouTubers, podcasts)
+│   ├── Community Discord/forum launch
+│   ├── Daily campaign updates and engagement
+│   └── Deliverable: $500k+ raised, 500+ backers
+│
+├── Month 8: Engineering Validation
+│   ├── EVT (Engineering Validation Test) builds (50 units)
+│   ├── Thermal, battery, stress testing
+│   ├── Identify and fix hardware issues
+│   ├── Finalize chassis tooling
+│   └── Deliverable: EVT passed, tooling ordered
+│
+├── Month 9: DVT Production
+│   ├── DVT (Design Validation Test) builds (200 units)
+│   ├── Beta tester program launch
+│   ├── FCC/CE certification submission
+│   ├── Software feature freeze
+│   └── Deliverable: DVT units to testers, certifications in progress
+
+QUARTER 4 (Months 10-12): Mass Production & Launch
+├── Month 10: Production Ramp
+│   ├── PVT (Production Validation Test) run (500 units)
+│   ├── Quality control processes finalized
+│   ├── Packaging design and production
+│   ├── Logistics and fulfillment setup
+│   └── Deliverable: Production-ready, fulfillment partner
+│
+├── Month 11: Soft Launch
+│   ├── Ship to Kickstarter backers (first 500)
+│   ├── Collect feedback, monitor returns
+│   ├── Day-1 patch for any software issues
+│   ├── Begin retail channel conversations
+│   └── Deliverable: First customers served, reviews live
+│
+├── Month 12: Full Launch
+│   ├── Open general sales (website, Amazon)
+│   ├── Scale production to 1,000+ units/month
+│   ├── Launch marketing campaign
+│   ├── Plan V2 features based on feedback
+│   └── Deliverable: Revenue-generating business
+
+KEY MILESTONES SUMMARY:
+├── Month 3:  500 email signups, team formed
+├── Month 6:  Seed funding closed, working prototype
+├── Month 9:  Crowdfunding complete, beta units shipping
+├── Month 12: Product launched, first revenue
+└── Year 1 Goal: 1,000 units sold, $2.5M revenue
+```
