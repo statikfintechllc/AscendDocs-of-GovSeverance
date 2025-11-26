@@ -1,6 +1,5 @@
-# SFTi S-Series: Mobile AI Compute Devices
-
-**Full Technical Specification Build with the assistance of Claude Opus 4.5**
+# SFTi S-Series: 
+**Mobile AI Compute Devices Full Technical Specification Build with the assistance of Claude Opus 4.5**
 
 -----
 
@@ -14,7 +13,7 @@
 
 -----
 
-## SFTi S-IA
+# SFTi S-IA
 **The Standalone Pocket Development Device**
 
 ### Core Specifications & the Compute Architecture
@@ -390,13 +389,12 @@ Use cases:
 
 -----
 
-# **SFTi S-IO: Phone Case Compute Accelerator**
+## SFTi S-I
+**Phone Case Compute Accelerator
 
-## **Core Concept**
+### Core Concept and The Problem with Phone Cases:
 
-**The Problem with Phone Cases:**
-
-- Current approach (our earlier discussion):
+- Current approach:
     - ❌ Can't actually share RAM with phone (USB-C too slow)
     - ❌ Thermal issues (phone + case = overheating)
     - ❌ iOS/Android don't expose low-level hardware access
@@ -412,11 +410,9 @@ Use cases:
 
 -----
 
-## **Technical Specifications**
+## Technical Specifications
 
-### **Compute Module**
-
-**Processing Unit:**
+### Compute Module and the Processing Unit:
 
 ```txt
 Qualcomm Snapdragon X Elite (custom variant)
