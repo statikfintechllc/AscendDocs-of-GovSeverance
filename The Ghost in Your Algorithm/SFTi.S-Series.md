@@ -1,26 +1,25 @@
-# **SFTi S-Series: Mobile AI Compute Devices - Full Technical Specification**
+# SFTi S-Series: Mobile AI Compute Devices
 
-## Build with the assistance of Claude Opus 4.5
+**Full Technical Specification Build with the assistance of Claude Opus 4.5**
 
 -----
 
 ## **Product Line Overview**
 
-```json
-SFTi S-IA: Standalone Development Device (Pocket Computer)
-SFTi S-IO: Phone Case Compute Accelerator (OEM OS Extension)
-```
+> [!Important]
+> 
+> SFTi S-IA: Standalone Development Device (Pocket Computer)
+>
+> SFTi S-IO: Phone Case Compute Accelerator (OEM OS Extension)
 
 -----
 
-# **SFTi S-IA: Standalone Pocket Development Device**
+## SFTi S-IA
+**The Standalone Pocket Development Device**
 
-## **Core Specifications**
-
-### **Compute Architecture**
+### Core Specifications & the Compute Architecture
 
 **Primary Processing Unit:**
-
 ```txt
 Option A: NVIDIA Jetson AGX Orin 64GB
 ├── GPU: 2048 CUDA cores, 64 Tensor cores
