@@ -431,19 +431,16 @@ This approach:
 
 -----
 
-## **Next Steps (This Week/Month)**
+## **Next Steps**
 
-1. **Validate Demand (Free)**
+1. **Validate Demand and Out-Reach**
 
    - Post concept on Reddit (r/LocalLLaMA, r/Hardware)
    - Create landing page (Carrd.co, free)
    - Google Form: "Would you buy this for $2,750?"
    - Goal: 100 emails from interested people
-
-2. **Technical Feasibility Test ($500)**
    
-
-3. **Financial Model (Free)**
+2. **Build/Get a Financial Model**
 
    - Spreadsheet: Unit economics
    - BOM cost vs. retail price
@@ -452,7 +449,7 @@ This approach:
    - 3-year cashflow model
    - Share with potential angel investors for feedback
    
-4. **Competitive Analysis ($0)**
+3. **Perform Competitive Analysis**
    
    - Research every AI hardware product (Humane, Rabbit, etc.)
    - What failed? Why?
@@ -460,7 +457,7 @@ This approach:
    - Create comparison matrix
    - Identify: "What makes S-IO 10x better?"
  
-5. **Find Co-Founder(s) (Crucial)**
+5. **Find Co-Founder(s)/Funder(s) (Crucial)**
 ```txt
 You need:
 	├── Hardware engineer (electrical + mechanical)
@@ -488,6 +485,7 @@ Equity split (typical):
 
 ## **Risk Analysis & Mitigation**
 
+**Technical Feasibility Test ($500)**
 
 ### **Market Risks:**
 
