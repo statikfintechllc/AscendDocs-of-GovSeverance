@@ -506,7 +506,7 @@ Risk 2: Market Size Uncertainty
 ├── Impact: Medium
 └── Mitigation:
     ├── Pre-order validation before manufacturing
-    ├── Start with Kickstarter/Indiegogo gauge
+    ├── Start with Kickstarter/Indiegogo to gauge
     ├── Pivot to B2B if consumer demand weak
     └── Enterprise/developer focus reduces consumer risk
 
@@ -631,7 +631,7 @@ Long-Term Success Indicators:
 and a laptop for real work. But what if you could run serious AI models,
 full development environments, and multi-agent workflows from your pocket?
 
-That's S-IA.
+That's SFTi S-IA.
 
 We've packed a 96GB unified memory architecture, 50+ TOPS of AI compute,
 and a full Linux development stack into a device smaller than a paperback book.
