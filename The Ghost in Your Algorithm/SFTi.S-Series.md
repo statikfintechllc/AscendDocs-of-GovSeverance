@@ -8,8 +8,6 @@
 > [!Important]
 > 
 > SFTi S-IA: Standalone Development Device (Pocket Computer)
->
-> SFTi S-IO: Phone Case Compute Accelerator (OEM OS Extension)
 
 -----
 
