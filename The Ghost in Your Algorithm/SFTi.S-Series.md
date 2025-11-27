@@ -1,16 +1,16 @@
-# **SFTi S-IA: Corrected & Price-Verified Version**
+# **SFTi S-Series: Mobile Compute**
 
------
+---
 
 ## **Product Overview**
 
+> [!Important]
+>
 > **SFTi S-IA**: Standalone Pocket Development Device
 
------
+---
 
-## **Core Specifications**
-
-### **Compute Architecture**
+## **Core Specifications and Compute Architecture**
 
 ```txt
 Option A: NVIDIA Jetson AGX Orin 64GB
@@ -38,9 +38,9 @@ Option C: Intel Core Ultra 9 288V (Lunar Lake)
 └── Cost: ~$650 ⚠️ (increased from $600)
 ```
 
-RECOMMENDED: AMD Ryzen AI 9 HX 370
+**Recommended**: AMD Ryzen AI 9 HX 370
 
-**Memory:**
+**Memory**:
 
 ```txt
 ├── 64GB LPDDR5X-7500 (Base)
@@ -49,7 +49,7 @@ RECOMMENDED: AMD Ryzen AI 9 HX 370
 └── Bandwidth: 120-240 GB/s
 ```
 
-**Storage:**
+**Storage**:
 
 ```txt
 Primary: 1TB NVMe Gen 5
@@ -63,7 +63,7 @@ Expandable: microSD UHS-II
 └── Cost: ~$180 ⚠️ (increased from $150)
 ```
 
-**AI Accelerator:**
+**AI Accelerator**:
 
 ```txt
 Google Coral M.2 TPU (optional)
@@ -77,7 +77,7 @@ Total AI Compute:
 - GPU: ~15 TFLOPS (FP16)
 = Llama 3 70B @ ~18-20 tokens/sec ✅
 
------
+---
 
 ## **Physical Design**
 
@@ -86,12 +86,12 @@ Total AI Compute:
 185mm × 95mm × 12mm (7.3" × 3.7" × 0.47")
 **Weight**: 380g (0.84 lbs)
 
-Comparison:
-- **iPhone 16 Pro Max**: 163mm × 78mm × 8.25mm
-- **Steam Deck**: 298mm × 117mm × 49mm
-- **S-IA**: Between iPhone and Deck (thinner than Deck)
+**Comparison**:
+- *iPhone 16 Pro Max*: 163mm × 78mm × 8.25mm
+- *Steam Deck*: 298mm × 117mm × 49mm
+- *S-IA*: Between iPhone and Deck (thinner than Deck)
 
-**Display:**
+**Display**:
 
 ```txt
 7" AMOLED 2560×1600 (430 PPI)
@@ -103,7 +103,7 @@ Comparison:
 └── Cost: ~$90 ⚠️ (increased from $80)
 ```
 
-**Chassis:**
+**Chassis**:
 
 ```txt
 Aerospace aluminum 6061-T6
@@ -124,7 +124,7 @@ Buttons:
 └── No face buttons (all touch)
 ```
 
-**Thermal Management:**
+**Thermal Management**:
 
 ```txt
 Passive Cooling:
@@ -140,11 +140,11 @@ Throttling:
 - 25W+: 80% (graceful)
 ```
 
------
+---
 
 ## **Battery & Power**
 
-**Battery:**
+**Battery**:
 
 ```txt
 25,000mAh (96Wh) lithium polymer
@@ -161,7 +161,7 @@ Runtime:
 └── Mixed dev work: 10-12 hours ✅
 ```
 
-**Charging:**
+**Charging**:
 
 ```txt
 USB-C PD 3.1 EPR (140W max)
@@ -175,11 +175,11 @@ Features:
 └── Thermal management during charge
 ```
 
------
+---
 
 ## **Operating System**
 
-**Linux (Primary):**
+**Linux (Primary)**:
 
 ```txt
 Ubuntu 24.04 LTS or Arch
@@ -214,11 +214,11 @@ Windows 11 Pro ARM64
 └── Use: Testing Windows apps, gaming
 ```
 
------
+---
 
 ## **Software Capabilities**
 
-**LLM Inference:**
+**LLM Inference**:
 
 ```txt
 ├── Llama 3.1 70B (Q4): 18-20 tokens/sec ⚠️ (adjusted down)
@@ -230,7 +230,7 @@ Windows 11 Pro ARM64
 
 **Context**: 32k standard, 128k with tricks ✅
 
-**Multi-Agent Workflows:**
+**Multi-Agent Workflows**:
 
 ```txt
 Example: Trading pipeline
@@ -265,7 +265,7 @@ Running together:
 └── Custom trading chart analysis ✅
 ```
 
------
+---
 
 ## **Connectivity**
 
@@ -295,51 +295,51 @@ USB4 (2 ports)
 └── 100W PD (in/out)
 ```
 
------
+---
 
 ## **Build Cost (10,000 Units)**
 
-|Component            |Cost      |Notes    |
-|---------------------|----------|---------|
-|AMD Ryzen AI 9 HX 370|$900      |⚠️ +$100  |
-|96GB LPDDR5X RAM     |$320      |⚠️ +$40   |
-|1TB NVMe Gen 5       |$135      |⚠️ +$15   |
-|7” AMOLED display    |$90       |⚠️ +$10   |
-|25,000mAh battery    |$95       |⚠️ +$15   |
-|Aluminum chassis     |$50       |⚠️ +$5    |
-|Vapor chamber        |$30       |⚠️ +$5    |
-|USB4 controllers     |$35       |⚠️ +$5    |
-|WiFi 7 + BT 5.4      |$18       |⚠️ +$3    |
-|Touch controller     |$12       |⚠️ +$2    |
-|Power management     |$22       |⚠️ +$2    |
-|Cameras (5MP + 13MP) |$28       |⚠️ +$3    |
-|Speakers (stereo)    |$10       |⚠️ +$2    |
-|Microphones (dual)   |$6        |⚠️ +$1    |
-|PCB (12-layer)       |$70       |⚠️ +$10   |
-|Assembly + QC        |$95       |⚠️ +$15   |
-|Packaging            |$18       |⚠️ +$3    |
-|**TOTAL COGS**       |**$1,934**|**+$236**|
+|Component            |Cost      |
+|---------------------|----------|
+|AMD Ryzen AI 9 HX 370|$900      |
+|96GB LPDDR5X RAM     |$320      |
+|1TB NVMe Gen 5       |$135      |
+|7” AMOLED display    |$90       |
+|25,000mAh battery    |$95       |
+|Aluminum chassis     |$50       |
+|Vapor chamber        |$30       |
+|USB4 controllers     |$35       |
+|WiFi 7 + BT 5.4      |$18       |
+|Touch controller     |$12       |
+|Power management     |$22       |
+|Cameras (5MP + 13MP) |$28       |
+|Speakers (stereo)    |$10       |
+|Microphones (dual)   |$6        |
+|PCB (12-layer)       |$70       |
+|Assembly + QC        |$95       |
+|Packaging            |$18       |
+|**TOTAL COGS**       |**$1,934**|
 
------
+---
 
-## **Retail Pricing (Updated)**
+## **Retail Pricing**
 
-**Base** (64GB, 512GB): $2,699 ⚠️ (was $2,499)
-**Pro** (96GB, 1TB): $3,199 ⚠️ (was $2,999) ← RECOMMENDED
-**Max** (120GB, 2TB): $3,699 ⚠️ (was $3,499)
+**Base** (64GB, 512GB): $2,699
+**Pro** (96GB, 1TB): $3,199 ← RECOMMENDED
+**Max** (120GB, 2TB): $3,699
 
-Margin:
+### **Margin**:
 - **COGS**: $1,934
 - **Pro Retail**: $3,199
 - **Margin**: $1,265 (40%) ✅ Still sustainable
 
------
+---
 
 ## **IP Strategy**
 
-**Patents:** TBD (thermal management, compute offloading)
+**Patents**: TBD (thermal management, compute offloading)
 
-**Trademarks:**
+**Trademarks**:
 
 ```txt
 ├── "StatikFinTech, LLC" (company)
@@ -348,10 +348,10 @@ Margin:
 └── "Local AI, Mobile Compute, Mobilize Your Workflow"
 ```
 
-Cost: $2,000-3,000
-Timeline: 6-9 months
+**Cost**: $2,000-3,000
+**Timeline**: 6-9 months
 
-**Open Source:**
+**Open Source**:
 
 ```txt
 Open:
@@ -363,31 +363,32 @@ Open:
 Closed:
 ├── Thermal algorithms
 ├── Power optimization
-├── Proprietary features
+└── Proprietary features
 ```
 
------
+---
 
 ## **Next Steps**
 
 1. **Demand Validation**
 
 - Reddit: r/LocalLLaMA, r/Hardware
+- LinkedIn: Polls/Posts
 - Landing page + email capture
 - Goal: 100+ signups, $3,199 price acceptance
 
-1. **Financial Model**
+2. **Financial Model**
 
 - Unit economics
 - Break-even at X units
 - 3-year projections
 
-1. **Competitive Analysis**
+3. **Competitive Analysis**
 
 - Humane, Rabbit failures analysis
 - What makes S-IA different?
 
-1. **Co-Founder Search**
+4. **Co-Founder Search**
 
 - Hardware engineer (electrical/mechanical)
 - Firmware engineer (Linux kernel)
